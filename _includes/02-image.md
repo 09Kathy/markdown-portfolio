@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Flemish Giant](https://upload.wikimedia.org/wikipedia/commons/9/98/Geant_des_flandres_101.JPG)
