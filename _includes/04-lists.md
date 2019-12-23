@@ -1,0 +1,4 @@
+* California
+* Minnesota
+  * Northfield
+  * Minneapolis
